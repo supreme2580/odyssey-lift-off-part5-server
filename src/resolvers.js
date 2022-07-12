@@ -50,7 +50,7 @@ const resolvers = {
   },
 
   Module: {
-    durationInSeconds: ({ length }) => length
+    durationInSeconds: ({ length }) => length,
   }
   
 };
